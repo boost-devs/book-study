@@ -31,15 +31,15 @@
     </tr>
     <tr height="50px">
         <td align="center">
-            <a href="https://github.com/coodingpenguin">펭귄</a>
+            <a href="https://github.com/coodingpenguin"><strong>:octocat: 펭귄</strong></a>
         </td>
         <td align="center">
-            <a href="https://github.com/bsm8734">샐리</a>
+            <a href="https://github.com/bsm8734"><strong>:octocat: 샐리</strong></a>
         <td align="center">
-            <a href="https://github.com/opijae">후미</a>
+            <a href="https://github.com/opijae"><strong>:octocat: 후미</strong></a>
         </td>
         <td align="center">
-            <a href="https://github.com/peacecheejecake">튜브</a>
+            <a href="https://github.com/peacecheejecake"><strong>:octocat: 튜브</strong></a>
         </td>
     </tr>
 </table>
