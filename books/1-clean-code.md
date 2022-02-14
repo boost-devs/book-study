@@ -2,7 +2,7 @@
 
 ![저자](https://img.shields.io/badge/%EC%A0%80%EC%9E%90-%EB%A1%9C%EB%B2%84%ED%8A%B8%20C.%20%EB%A7%88%ED%8B%B4-e76f51?style=for-the-badge) ![출판사](https://img.shields.io/badge/%EC%B6%9C%ED%8C%90%EC%82%AC-%EC%9D%B8%EC%82%AC%EC%9D%B4%ED%8A%B8-faa307?style=for-the-badge) ![기간](https://img.shields.io/badge/%EA%B8%B0%EA%B0%84-2022.02.15%20~-52b788?style=for-the-badge)
 
-- [1장. 깨끗한 코드](1장.-깨끗한-코드)
+- [1장. 깨끗한 코드](#1장-깨끗한-코드)
 - [느낀점](#느낀점)
 
 ## 1장. 깨끗한 코드
