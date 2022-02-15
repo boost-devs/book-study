@@ -31,18 +31,19 @@
     </tr>
     <tr height="50px">
         <td align="center">
-            <a href="https://github.com/coodingpenguin"><strong>:octocat: 펭귄</strong></a>
+            <a href="https://github.com/coodingpenguin"><strong>:penguin: 펭귄</strong></a>
         </td>
         <td align="center">
-            <a href="https://github.com/bsm8734"><strong>:octocat: 샐리</strong></a>
+            <a href="https://github.com/bsm8734"><strong>:lemon: 샐리</strong></a>
         <td align="center">
-            <a href="https://github.com/opijae"><strong>:octocat: 후미</strong></a>
+            <a href="https://github.com/opijae"><strong>:slightly_smiling_face: 후미</strong></a>
         </td>
         <td align="center">
-            <a href="https://github.com/peacecheejecake"><strong>:octocat: 튜브</strong></a>
+            <a href="https://github.com/peacecheejecake"><strong>:cactus: 튜브</strong></a>
         </td>
     </tr>
 </table>
+
 
 ---
 
@@ -53,9 +54,12 @@
   - 스터디 슬로건인 <i>"가늘고 길게 가자"</i>처럼 부담이 가지 않을 정도의 양을 매주 정한다.
   - 책 분야는 웹, 인공지능, 데이터, 네트워크, 컴퓨터공학 등 다양한 분야를 선택할 수 있다.
 - 스터디 날까지 스터디 로그에 다음과 같은 부분을 작성해야 한다.
-  1. `인상 깊었던 부분` 인용구로 작성하기
-  2. 책 읽고 `느낀점` 작성하기
-- 스터디 날에는 스터디 로그를 공유하며 `인상 깊었던 부분`에 대한 의견을 듣고 커멘트를 작성한다.
+  - 인상 깊었던 부분을 인용구로 작성하고 자신 지정 이모지로 표시한다.
+  - 해당 책 스터디 마지막 날에는 느낀점을 작성한다.
+- 스터디 날에는 스터디 로그를 공유하며 인상 깊었던 부분에 대한 의견을 듣고 커멘트를 작성한다.
+  - 커멘트는 구글 독스에 작성하고 해당 주 모더레이터가 정리한다.
+  - 모더레이터 순서는 `펭귄` - `후미` - `샐리` - `튜브`이다.
+
 
 ---
 
