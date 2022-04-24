@@ -495,7 +495,7 @@
 - <strong>I</strong>ndependent: 각 테스트는 서로 의존하면 안 된다. 한 테스트가 다음 테스트가 실행될 환경을 준비해서는 안 된다.
 - <strong>R</strong>epeatable: 테스트는 어떤 환경에서도 반복 가능해야 한다.
 - <strong>S</strong>elf-Validating: 테스트는 부울(bool) 값으로 결과를 내야 한다.
-- <strong>T</string>imely: 테스트는 적시에 작성해야 한다. 단위 테스트는 테스트하려는 실제 코드를 구현하기 직전에 구현한다.
+- <strong>T</strong>imely: 테스트는 적시에 작성해야 한다. 단위 테스트는 테스트하려는 실제 코드를 구현하기 직전에 구현한다.
 
 <small><a href="#-목차">⬆️ 위로 이동</a></small>
 
