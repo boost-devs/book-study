@@ -797,8 +797,10 @@
 
 <table>
   <thead>
-    <th width='10%'>팀원</th>
-    <th width='90%'>느낀점</th>
+    <tr>
+      <th width='10%'>팀원</th>
+      <th width='90%'>느낀점</th>
+    </tr>
   </thead>
   <tbody>
     <tr>
