@@ -6,7 +6,7 @@
   <div>
     <img src="https://img.shields.io/badge/저자-에릭%20프리먼%20외%203인-e76f51?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/출판사-한빛미디어-faa307?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/기간-2022.09.20%20~-52b788?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/기간-2022.09.22%20~-52b788?style=for-the-badge"/>
   </div>
 </div>
 
