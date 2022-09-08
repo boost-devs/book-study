@@ -1,6 +1,6 @@
 <div align="center">
   <a href="http://www.yes24.com/Product/Goods/79378905">
-      <img src="./img/thumbnail.png" alt="Logo" width="200">
+      <img src="./images/thumbnail.png" alt="Logo" width="200">
   </a>
   <h1>개발자의 글쓰기</h1>
   <div>
