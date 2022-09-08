@@ -1,6 +1,6 @@
 <div align="center">
   <a href="http://www.yes24.com/Product/Goods/11681152">
-      <img src="./img/1-clean-code/thumbnail.png" alt="Logo" width="200">
+      <img src="./img/thumbnail.png" alt="Logo" width="200">
   </a>
   <h1>Clean Code 클린 코드</h1>
   <div>
@@ -26,7 +26,7 @@
 - [12장. 창발성](#12장-창발성)
 - [13장. 동시성](#13장-동시성)
 - [14장. 점진적인 개선](#14장-점진적인-개선)
-- [느낀점](#느낀점)
+- [느낀점](#-느낀점)
 
 ---
 
@@ -821,8 +821,9 @@
 
 > <strong><i>p321.그저 돌아가는 코드만으로는 부족하다. 돌아가는 코드가 심하게 망가지는 사례는 흔하다. 단순히 돌아가는 코드에 만족하는 프로그래머는 전문가 정신이 부족하다.</i></strong> 🐧
 
+---
 
-## 느낀점
+## 💬 느낀점
 
 <table>
   <thead>
