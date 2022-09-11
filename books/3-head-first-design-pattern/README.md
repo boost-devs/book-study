@@ -22,29 +22,13 @@
 
 ## 💬 느낀점
 
-<table>
-  <thead>
-    <tr>
-      <th width='10%'>팀원</th>
-      <th width='90%'>느낀점</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align='center'><code>펭귄</code></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td align='center'><code>샐리</code></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td align='center'><code>후미</code></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td align='center'><code>튜브</code></td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
+### 펭귄
+
+
+### 샐리
+
+
+### 후미
+
+
+### 
