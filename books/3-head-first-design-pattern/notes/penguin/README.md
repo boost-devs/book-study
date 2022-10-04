@@ -12,8 +12,8 @@
   - Observer를 언제든지 새로 추가하거나 제거할 수 있다.
   - 새로운 형식의 Observer를 추가할 수 있다.
 - 최신 상태값을 가져오는 방법은 2가지이다.
-  - 방법 1: Subject가 전체 Observer에게 Push하는 방법 (= Observer에서 구현한 update 메서드 호출)
-  - 방법 2: Observer가 Subject로부터 상태를 Pull하는 방법 (= update 메서드 구현 시 getter 함수로 Subject의 상태를 가져와 변경)
+  - **방법 1**: Subject가 전체 Observer에게 Push하는 방법 (= Observer에서 구현한 update 메서드 호출)
+  - **방법 2**: Observer가 Subject로부터 상태를 Pull하는 방법 (= update 메서드 구현 시 getter 함수로 Subject의 상태를 가져와 변경)
 
 ### Subject
 
