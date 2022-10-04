@@ -32,6 +32,25 @@
 * 느슨한 결합(loose coupling): 객체들이 상호작용할 수는 있지만 서로를 잘 모르는 관계.
 * publish-scribe pattern: 서로 다른 유형의 메세지에 관심을 가질 수 있고, 역할을 더 세세하게 분리할 수 있는 패턴으로, 미들웨어 시스템에서 많이 쓰인다.
 
+### 푸시 방식과 풀 방식
+* 푸시 방식: 주제가 옵저버에게 상태를 알리는 방식
+```java
+public void update(float temperature, float humidity, float pressure) {
+ this.temperature = temperature;
+ this.humidity = humidity;
+ display();
+}
+```
+
+* 풀 방식: 주제에서 옵저버가 상태를 끌어오는 방식
+```java
+public void update() {
+ this.temperature = weatherData.getTemperature();
+ this.humidity = weatherData.getHumidity();
+ display();
+}
+```
+
 ## 3장. 데코레이터 패턴
 
 ## 4장. 팩토리 패턴
