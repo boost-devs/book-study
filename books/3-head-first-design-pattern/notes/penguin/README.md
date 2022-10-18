@@ -110,6 +110,95 @@ class CurrentConditionsDisplay(Observer, DisplayElement):
 
 ## 3장. 데코레이터 패턴
 
+### 디자인 원칙: OCP(Open-Closed Principle)
+
+> 클래스는 확장에는 열려 있어야 하지만 변경에는 닫혀 있어야 한다.
+
+https://blog.itcode.dev/posts/2021/08/14/open-closed-principle
+
+### 데코러이터 패턴
+
+![decorator-uml](./images/decorator.png)
+
+**객체에 추가 요소를 동적으로 더할 수 있는 방식**으로 서브클래스를 만들 때보다 훨씬 유연하게 기능을 확장할 수 있다.
+
+- 데코레이터 슈퍼클래스는 장식할 객체의 슈퍼클래스와 같다.
+- 한 객체에 여러 개의 데코레이터를 감쌀 수 있다.
+- 데코레이터는 장식할 객체에게 어떤 행동을 위임하는 일 말고도 추가 작업을 수행할 수 있다.
+- 데코레이터에서 "상속"을 사용하는 이유는 구성 요소와의 형식믈 맞추기 위함이다.
+  - 구성 요소가 추상 클래스라면 똑같이 추상 클래스를, 인터페이스라면 인터페이스로 구현한다.
+- 새로운 기능을 더하고 구성 요소는 데코레이터의 존재를 알 수 없다는 점에서 매우 확장성이 높지만, 다음과 같은 단점이 있다.
+  - 자잘한 클래스가 많이 추가되는 경우를 볼 수 있다.
+  - 구성 요소를 초기화하는 데 필요한 코드가 훨씬 복잡해진다.
+
+#### Component
+
+```python
+from abc import ABCMeta, abstractmethod
+
+
+class Beverage:
+  __metaclass__ = ABCMeta
+  
+  def __init__(self):
+    self._description = "Unknown Beverage"
+
+  def get_description(self):
+    return self._description
+  
+  @abstractmethod
+  def cost(self):
+    pass
+
+
+class Espresso(Beverage):
+
+    def __init__(self):
+      self._description = "Espresso"
+
+    def cost(self):
+      return 1.99
+```
+
+#### Decorator
+
+```python
+class CondimentDecorator(Beverage):
+  __metaclass__ = ABCMeta
+
+  @abstractmethod
+  def get_description():
+    pass
+
+class Mocha(CondimentDecorator):
+
+  def __init__(self, beverage):
+    self._beverage = beverage
+
+  def get_description(self):
+    return self._beverage.get_description() + ", Mocha"
+  
+  def cost(self):
+    return .20 + self._beverage.cost()
+```
+
+#### 사용 예시
+
+```python
+if __name__ == "__main__":
+    beverage = Espresso()
+    print(beverage.get_description() + " $" + str(beverage.cost()))	# Espresso $1.99
+
+    beverage2 = Espresso()
+    beverage2 = Mocha(beverage2)
+    beverage2 = Mocha(beverage2)
+    print(beverage2.get_description() + " $" + str(beverage2.cost()))	# Espresso, Mocha, Mocha $2.39
+```
+
+
+
+
+
 ## 4장. 팩토리 패턴
 
 ## 5장. 싱글턴 패턴
