@@ -27,7 +27,7 @@ class Subject:
   @abstractmethod
   def registerObserver(self, observer):
     pass
-  
+
   @abstractmethod
   def removeObserver(self, observer):
     pass
@@ -47,20 +47,20 @@ class WeatherData(Subject):
 
   def registerObserver(self, observer):
     self._observers.append(observer)
-  
+
   def removeObserver(self, obeserver):
     try:
       self._observers.remove(observer)
     except:
       pass
-  
+
   def notifyObservers(self):
     for observer in self._observers:
       observer.update(self._temperature, self._humidity, self._pressure)
-    
+
   def measurementChanged(self):
     self.notifyObservers()
-  
+
   def setMeasurements(self, temperature, humidity, pressure):
     self._temperature = temperature
     self._humidity = humidity
@@ -89,7 +89,7 @@ class DisplayElement:
 
 
 class CurrentConditionsDisplay(Observer, DisplayElement):
-  
+
     def __init__(self, weather_data):
         self._temperature = None
         self._humidity = None
@@ -105,8 +105,6 @@ class CurrentConditionsDisplay(Observer, DisplayElement):
     def display(self):
         print(f"현재 조건: 온도 {self._temperature} °F / 습도 {self._humidity}");
 ```
-
-
 
 ## 3장. 데코레이터 패턴
 
@@ -139,13 +137,13 @@ from abc import ABCMeta, abstractmethod
 
 class Beverage:
   __metaclass__ = ABCMeta
-  
+
   def __init__(self):
     self._description = "Unknown Beverage"
 
   def get_description(self):
     return self._description
-  
+
   @abstractmethod
   def cost(self):
     pass
@@ -177,7 +175,7 @@ class Mocha(CondimentDecorator):
 
   def get_description(self):
     return self._beverage.get_description() + ", Mocha"
-  
+
   def cost(self):
     return .20 + self._beverage.cost()
 ```
@@ -195,11 +193,16 @@ if __name__ == "__main__":
     print(beverage2.get_description() + " $" + str(beverage2.cost()))	# Espresso, Mocha, Mocha $2.39
 ```
 
-
-
-
-
 ## 4장. 팩토리 패턴
+
+### 의존성 역전 원칙
+
+- https://blog.itcode.dev/posts/2021/08/17/dependency-inversion-principle
+- https://blog.hexabrain.net/395
+
+### 팩토리 패턴
+
+- https://stackoverflow.com/questions/5739611/what-are-the-differences-between-abstract-factory-and-factory-design-patterns
 
 ## 5장. 싱글턴 패턴
 
