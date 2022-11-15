@@ -65,10 +65,9 @@ public void update() {
   * (병목을 감당할 수 있다면) 동기적으로 실행되게 한다.
   * 인스턴스를 정적으로 초기화하고 lazy initialization을 하지 않는다.
   * DCL(Double-Checked Locking)을 사용한다.
-* Python 버전
-```python
+* Python 버전...?
 [참고](https://wikidocs.net/3693)
-```
+
 
 ## 6장. 커맨드 패턴
 
