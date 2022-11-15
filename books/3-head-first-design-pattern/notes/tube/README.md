@@ -67,7 +67,7 @@ public void update() {
   * DCL(Double-Checked Locking)을 사용한다.
 * Python 버전
 ```python
-...?
+[참고](https://wikidocs.net/3693)
 ```
 
 ## 6장. 커맨드 패턴
