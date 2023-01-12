@@ -79,41 +79,6 @@ public void update() {
 * 어댑터 패턴
   * 인터페이스가 호환되지 않아 사용될 수 없었던 클래스를 사용할 수 있도록 어댑터 클래스를 도입
   * 기존 코드를 크게 수정하지 않을 수 있다는 것이 가장 큰 장점
-  ```ts
-  // target
-declare class UsbPort {
-  charge(): void;
-}
-
-// adaptee
-declare class LighteningCable {
-  connect(): void;
-}
-
-// adapter
-declare class Adapter extends UsbPort {
-  lighteningCable: LighteningCable;
-  constructor(lighteningCable: LighteningCable);
-}
-
-// client
-declare class Galaxy {
-  adapter: Adapter;
-  charge(): void;
-}
-
-class MyPhone implements Galaxy {
-  adapter = new Adapter(new LighteningCable());
-  charge() {
-    console.log('charged');
-  }
-}
-
-
-// 충전하기
-const phone = new MyPhone();
-phone.charge();
-```
 * 퍼사드 패턴
   * 서브시스템에 있는 일련의 인터페이스를 통합 인터페이스로 묶어 주는 패턴
   * 클라이언트는 하나의 통합 인터페이스에 연결되며, 통합 인터페이스는 (클라이언트 대신) 모든 서브시스템을 관리
