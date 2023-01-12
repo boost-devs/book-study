@@ -79,7 +79,7 @@ public void update() {
 * 어댑터 패턴
   * 인터페이스가 호환되지 않아 사용될 수 없었던 클래스를 사용할 수 있도록 어댑터 클래스를 도입
   * 기존 코드를 크게 수정하지 않을 수 있다는 것이 가장 큰 장점
-  ```typescript
+  ```ts
   // target
 declare class UsbPort {
   charge(): void;
