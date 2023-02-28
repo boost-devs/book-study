@@ -225,6 +225,11 @@ if __name__ == "__main__":
 
 ## 10장. 상태 패턴
 
+- 상태 패턴은 "상태"와 "상태 전이"라는 개념이 들어간 전략 패턴이다.
+  - 전략 패턴: https://refactoring.guru/ko/design-patterns/strategy
+  - 상태 패턴: https://refactoring.guru/ko/design-patterns/state
+- 왜 다른 상태 클래스에서 다른 상태로 전이할 때 컨텍스트 객체에서 게터 메서드를 호출해서 가져오는지? 그냥 가져오면 안 되나? 
+
 ## 11장. 프록시 패턴
 
 ## 12장. 복합 패턴
