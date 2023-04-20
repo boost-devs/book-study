@@ -1,5 +1,3 @@
-## 1장. 디자인 패턴 소개와 전략 패턴
-
 ## 2장. 옵저버 패턴
 
 ![observer-uml](./images/observer.png)
@@ -204,12 +202,6 @@ if __name__ == "__main__":
 
 - https://stackoverflow.com/questions/5739611/what-are-the-differences-between-abstract-factory-and-factory-design-patterns
 
-## 5장. 싱글턴 패턴
-
-## 6장. 커맨드 패턴
-
-## 7장. 어댑터 패턴과 퍼사드 패턴
-
 ## 8장. 템플릿 메소드 패턴
 
 - 후크 메서드: "사용해도 되고 안해도 되고, 사용한다면 수정해도 되고"
@@ -219,9 +211,6 @@ if __name__ == "__main__":
 - 팩토리 메서드 패턴도 템플릿 메서드 패턴이다..? (https://refactoring.guru/ko/design-patterns/factory-method)
   - 인스턴스를 생성하는 메서드가 추상메서드이고, 템플릿 메서드가 별도로 있음
 - 템플릿 메서드(상속, 메서드, 알고리즘 개요) vs 전략(구성, 클래스, 알고리즘군)
-
-
-## 9장. 반복자 패턴과 컴포지트 패턴
 
 ## 10장. 상태 패턴
 
@@ -241,14 +230,6 @@ class ballMachin:
   public getAState():
     return this.AState
 ```
-
-## 11장. 프록시 패턴
-
-## 12장. 복합 패턴
-
-## 13장. 실전 디자인 패턴
-
-## 14장. 기타 패턴
 
 ## References
 
