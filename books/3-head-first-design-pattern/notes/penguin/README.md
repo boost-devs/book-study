@@ -1,6 +1,6 @@
 ## 2장. 옵저버 패턴
 
-![observer-uml](./images/observer.png)
+![observer-uml](./img/observer.png)
 
 **한 객체의 상태가 바뀌면 그 객체에 의존하는 다른 객체에게 연락이 가고 자동으로 내용이 갱신되는 방식**으로 일대다(one-to-many) 의존성을 정의한다. (= 일종의 브로드캐스팅 방식)
 
@@ -114,7 +114,7 @@ https://blog.itcode.dev/posts/2021/08/14/open-closed-principle
 
 ### 데코러이터 패턴
 
-![decorator-uml](./images/decorator.png)
+![decorator-uml](./img/decorator.png)
 
 **객체에 추가 요소를 동적으로 더할 수 있는 방식**으로 서브클래스를 만들 때보다 훨씬 유연하게 기능을 확장할 수 있다.
 

@@ -1,8 +1,8 @@
 <div align="center">
   <h1>📖Book Study📖</h1>
   <p>가늘고 길게 가는 걸 목표로 하는 책 스터디</p>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fboostcamp-ai-tech-4%2Fbook-study&count_bg=%23e76f51&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-  <img src="https://img.shields.io/github/stars/boostcamp-ai-tech-4/book-study?color=ffd166" alt="stars"/>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fboostcamp-ai-tech-4%2Fbook-study&count_bg=%23e76f51&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false&style=for-the-badge"/></a>
+  <img src="https://img.shields.io/github/stars/boostcamp-ai-tech-4/book-study?color=ffd166&style=for-the-badge" alt="stars"/>
 </div>
 
 ---
@@ -47,7 +47,7 @@
 
 ## 📌 진행 방식
 
-- 스터디는 **격주로 화요일 오후 9시**에 진행한다.
+- 스터디는 **격주로 목요일 오후 9시**에 진행한다.
 - 한 번에 한 책으로만 진행하고 책을 다 읽으면 다음 책을 정한다.
   - 스터디 슬로건인 <i>"가늘고 길게 가자"</i>처럼 부담이 가지 않을 정도의 양을 매주 정한다.
   - 책 분야는 웹, 인공지능, 데이터, 네트워크, 컴퓨터공학 등 다양한 분야를 선택할 수 있다.
@@ -71,6 +71,7 @@
 
 |          기간           |                                   책                                    |        저자        |   출판사   | 로그                                         |
 | :---------------------: | :---------------------------------------------------------------------: | :----------------: | :--------: | :------------------------------------------- |
-| 2022.02.15 ~ 2022.07.26 |        [클린 코드](http://www.yes24.com/Product/Goods/11681152)         |   로버트 C. 마틴   |  인사이트  | [로그](./books/1-clean-code/)                |
-| 2022.07.26 ~ 2022.09.06 |      [개발자 글쓰기](http://www.yes24.com/Product/Goods/79378905)       |       김철수       |  위키북스  | [로그](./books/2-developer-writing/)         |
-| 2022.09.22 ~ 2023.04.20 | [헤드 퍼스트 디자인 패턴](http://www.yes24.com/Product/Goods/108192370) | 에릭 프리먼 외 3인 | 한빛미디어 | [로그](./books/3-head-first-design-pattern/) |
+| 2022.02.15 ~ 2022.07.26 |        [클린 코드](https://product.kyobobook.co.kr/detail/S000001032980)         |   로버트 C. 마틴   |  인사이트  | [로그](./books/1-clean-code/)                |
+| 2022.07.26 ~ 2022.09.06 |      [개발자 글쓰기](https://product.kyobobook.co.kr/detail/S000001766399)       |       김철수       |  위키북스  | [로그](./books/2-developer-writing/)         |
+| 2022.09.22 ~ 2023.04.20 | [헤드 퍼스트 디자인 패턴](https://product.kyobobook.co.kr/detail/S000001810483) | 에릭 프리먼 외 3인 | 한빛미디어 | [로그](./books/3-head-first-design-pattern/) |
+| 2023.05.04 ~ | [함께 자라기](https://product.kyobobook.co.kr/detail/S000001033071) | 김창준 | 인사이트 | [로그](./books/4-growing-together) |
