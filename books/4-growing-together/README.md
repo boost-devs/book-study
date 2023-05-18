@@ -78,7 +78,7 @@
 
 - `펭귄`: [코드 리뷰의 목적은 성장이어야 한다 - JBEE.io](https://jbee.io/essay/code-review-goal/)
 
-> <strong><i>p63. 의도적 수련의 필수 요건 중 하나가 ‘적절한 난이도’입니다..</i></strong> 🐤  
+> <strong><i>p63. 의도적 수련의 필수 요건 중 하나가 ‘적절한 난이도’입니다..</i></strong> 🐤🌵  
 
 > <strong><i>p66-70. 지루함을 느끼는 경우: a1 실력낮추기 <br>
 지루함을 느끼는 경우: a2 난이도 높이기 <br>
