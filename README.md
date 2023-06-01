@@ -1,7 +1,7 @@
 <div align="center">
   <h1>📖Book Study📖</h1>
   <p>가늘고 길게 가는 걸 목표로 하는 책 스터디</p>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fboost-devs%2Fbook-study&count_bg=%23e76f51&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fboostcamp-ai-tech-4%2Fbook-study&count_bg=%23e76f51&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   <img src="https://img.shields.io/github/stars/boostcamp-ai-tech-4/book-study?color=ffd166" alt="stars"/>
 </div>
 
