@@ -10,34 +10,34 @@
 ## 👋 팀원 소개
 
 <table>
-    <tr height="160px">
-        <th align="center" width="150px">
-            <a href="https://github.com/CoodingPenguin"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/37505775?s=460&u=44732fef53503e63d47192ce5c2de747eff5f0c6&v=4"/>
-        </th>
-        <th align="center" width="150px">
-            <a href="https://github.com/bsm8734"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/35002768?s=460&v=4"/></a>
-        </th>
-        <th align="center" width="150px">
-            <a href="https://github.com/opijae"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/26226101?v=4"/></a>
-        </th>
-        <th align="center" width="150px">
-            <a href="https://github.com/peacecheejecake"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/29668380?v=4"/></a>
-        </th>
-    </tr>
-    <tr>
-      <td align="center" width="150px">
-            <a href="https://github.com/coodingpenguin"><strong>:penguin: 펭귄</strong></a>
-        </td>
-        <td align="center" width="150px">
-            <a href="https://github.com/bsm8734"><strong>:lemon: 샐리</strong></a>
-        </td>
-        <td align="center" width="150px">
-            <a href="https://github.com/opijae"><strong>:slightly_smiling_face: 후미</strong></a>
-        </td>
-        <td align="center" width="150px">
-            <a href="https://github.com/peacecheejecake"><strong>:cactus: 튜브</strong></a>
-        </td>
-    </tr>
+  <tr height="160px">
+    <th align="center" width="150px">
+      <a href="https://github.com/CoodingPenguin"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/37505775?s=460&u=44732fef53503e63d47192ce5c2de747eff5f0c6&v=4"/>
+    </th>
+    <th align="center" width="150px">
+      <a href="https://github.com/bsm8734"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/35002768?s=460&v=4"/></a>
+    </th>
+    <th align="center" width="150px">
+      <a href="https://github.com/opijae"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/26226101?v=4"/></a>
+    </th>
+    <th align="center" width="150px">
+      <a href="https://github.com/peacecheejecake"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/29668380?v=4"/></a>
+    </th>
+  </tr>
+  <tr>
+    <td align="center" width="150px">
+      <a href="https://github.com/coodingpenguin"><strong>:penguin: 펭귄</strong></a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/bsm8734"><strong>:lemon: 샐리</strong></a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/opijae"><strong>:slightly_smiling_face: 후미</strong></a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/peacecheejecake"><strong>:cactus: 튜브</strong></a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -65,9 +65,9 @@
 
 ## 📚 스터디 로그
 
-|          기간           |                                   책                                    |        저자        |   출판사   | 로그                                         |
-| :---------------------: | :---------------------------------------------------------------------: | :----------------: | :--------: | :------------------------------------------- |
-| 2022.02.15 ~ 2022.07.26 |        [클린 코드](https://product.kyobobook.co.kr/detail/S000001032980)         |   로버트 C. 마틴   |  인사이트  | [로그](./books/1-clean-code/)                |
-| 2022.07.26 ~ 2022.09.06 |      [개발자 글쓰기](https://product.kyobobook.co.kr/detail/S000001766399)       |       김철수       |  위키북스  | [로그](./books/2-developer-writing/)         |
+|          기간           |                                       책                                        |        저자        |   출판사   | 로그                                         |
+| :---------------------: | :-----------------------------------------------------------------------------: | :----------------: | :--------: | :------------------------------------------- |
+| 2022.02.15 ~ 2022.07.26 |        [클린 코드](https://product.kyobobook.co.kr/detail/S000001032980)        |   로버트 C. 마틴   |  인사이트  | [로그](./books/1-clean-code/)                |
+| 2022.07.26 ~ 2022.09.06 |      [개발자 글쓰기](https://product.kyobobook.co.kr/detail/S000001766399)      |       김철수       |  위키북스  | [로그](./books/2-developer-writing/)         |
 | 2022.09.22 ~ 2023.04.20 | [헤드 퍼스트 디자인 패턴](https://product.kyobobook.co.kr/detail/S000001810483) | 에릭 프리먼 외 3인 | 한빛미디어 | [로그](./books/3-head-first-design-pattern/) |
-| 2023.05.04 ~ | [함께 자라기](https://product.kyobobook.co.kr/detail/S000001033071) | 김창준 | 인사이트 | [로그](./books/4-growing-together) |
+|      2023.05.04 ~       |       [함께 자라기](https://product.kyobobook.co.kr/detail/S000001033071)       |       김창준       |  인사이트  | [로그](./books/4-growing-together)           |
