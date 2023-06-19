@@ -70,4 +70,4 @@
 | 2022.02.15 ~ 2022.07.26 |        [클린 코드](https://product.kyobobook.co.kr/detail/S000001032980)        |   로버트 C. 마틴   |  인사이트  | [로그](./books/1-clean-code/)                |
 | 2022.07.26 ~ 2022.09.06 |      [개발자 글쓰기](https://product.kyobobook.co.kr/detail/S000001766399)      |       김철수       |  위키북스  | [로그](./books/2-developer-writing/)         |
 | 2022.09.22 ~ 2023.04.20 | [헤드 퍼스트 디자인 패턴](https://product.kyobobook.co.kr/detail/S000001810483) | 에릭 프리먼 외 3인 | 한빛미디어 | [로그](./books/3-head-first-design-pattern/) |
-|      2023.05.04 ~       |       [함께 자라기](https://product.kyobobook.co.kr/detail/S000001033071)       |       김창준       |  인사이트  | [로그](./books/4-growing-together)           |
+| 2023.05.04 ~ 2023.06.29 |       [함께 자라기](https://product.kyobobook.co.kr/detail/S000001033071)       |       김창준       |  인사이트  | [로그](./books/4-growing-together)           |
