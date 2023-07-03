@@ -10,6 +10,46 @@
   </div>
 </div>
 
-## 📝 목차
+## 📚 정리 노트
+
+- [2장. 머신러닝 시스템 설계 소개](./ch02.md)
+- [3장. 데이터 엔지니어링 기초](./ch03.md)
+- [4장. 훈련 데이터](./ch04.md)
+- [5장. 피처 엔지니어링](./ch05.md)
+- [6장. 모델 개발과 오프라인 평가](./ch06.md)
+- [7장. 모델 배포와 예측 서비스](./ch07.md)
+- [8장. 데이터 분포 시프트와 모니터링](./ch08.md)
+- [9장. 연속 학습과 프로덕션 테스트](./ch09.md)
+- [10장. MLOps를 위한 인프라와 도구](./ch10.md)
+- [11장. 머신러닝의 인간적 측면](./ch11.md)
 
 ---
+
+## 💬 느낀점
+
+<table>
+  <thead>
+    <tr>
+      <th width='10%'>팀원</th>
+      <th width='90%'>느낀점</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align='center'><code>펭귄</code></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align='center'><code>샐리</code></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align='center'><code>후미</code></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align='center'><code>튜브</code></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
