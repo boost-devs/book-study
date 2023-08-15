@@ -36,7 +36,7 @@
 
 <details>
 
-<summary>🎓 이전 팀원</summary>
+<summary><strong>🎓 이전 팀원</strong></summary>
 
 <table>
   <tr height="160px">
