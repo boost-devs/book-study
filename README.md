@@ -18,9 +18,6 @@
       <a href="https://github.com/bsm8734"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/35002768?s=460&v=4"/></a>
     </th>
     <th align="center" width="150px">
-      <a href="https://github.com/opijae"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/26226101?v=4"/></a>
-    </th>
-    <th align="center" width="150px">
       <a href="https://github.com/peacecheejecake"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/29668380?v=4"/></a>
     </th>
   </tr>
@@ -32,13 +29,29 @@
       <a href="https://github.com/bsm8734"><strong>:lemon: 샐리</strong></a>
     </td>
     <td align="center" width="150px">
-      <a href="https://github.com/opijae"><strong>:slightly_smiling_face: 후미</strong></a>
-    </td>
-    <td align="center" width="150px">
       <a href="https://github.com/peacecheejecake"><strong>:cactus: 튜브</strong></a>
     </td>
   </tr>
 </table>
+
+<details>
+
+<summary>🎓 이전 팀원</summary>
+
+<table>
+  <tr height="160px">
+    <th align="center" width="150px">
+      <a href="https://github.com/opijae"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/26226101?v=4"/></a>
+    </th>
+  </tr>
+  <tr>
+    <td align="center" width="150px">
+      <a href="https://github.com/opijae"><strong>:slightly_smiling_face: 후미</strong></a>
+    </td>
+  </tr>
+</table>
+
+</details>
 
 ---
 
@@ -59,7 +72,7 @@
 - 스터디 날에는 스터디 로그를 공유하며 인상 깊었던 부분에 대한 의견을 듣는다.
   - 의견은 커멘트로 작성하고 공감은 이모지로 표시한다.
   - 커멘트는 구글 독스에 작성하고 해당 주 모더레이터가 정리한다.
-  - 모더레이터 순서는 `펭귄` - `후미` - `샐리` - `튜브`이다.
+  - 모더레이터 순서는 `펭귄` - `샐리` - `튜브`이다.
 
 ---
 
