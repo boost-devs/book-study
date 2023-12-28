@@ -6,7 +6,7 @@
   <div>
     <img src="https://img.shields.io/badge/저자-칩%20후옌-e76f51?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/출판사-한빛미디어-faa307?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/기간-2023.07.13%20~%20-52b788?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/기간-2023.07.13%20~%202023.12.28-52b788?style=for-the-badge"/>
   </div>
 </div>
 
@@ -37,14 +37,10 @@
   <tbody>
     <tr>
       <td align='center'><code>펭귄</code></td>
-      <td></td>
+      <td>부스트캠프 이후로 머신러닝을 포함한 인공지능 분야를 거의 접하지 못했는데, 이 책으로나마 비즈니스에서의 머신러닝을 자세히 살펴볼 수 있어서 좋았다. 이 책의 가장 좋은 점은 단순히 모델 학습에만 머물러 있는 것이 아니라 <strong>시스템을 어떻게 단계적으로 구축해나가는지</strong>를 보여주어서 좋았다. 조금 아쉬웠던 건 뒤로 갈수록 내용이 어려워지는데 반해 설명이 자세하지 않아서 아쉬웠다. 그래도 좋은 머신러닝 책이어서 머신러닝을 협업에서 어떻게 사용하는지 궁금하다면 추천하고 싶은 책이다.</td>
     </tr>
     <tr>
       <td align='center'><code>샐리</code></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td align='center'><code>후미</code></td>
       <td></td>
     </tr>
     <tr>
