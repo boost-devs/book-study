@@ -85,4 +85,5 @@
 | 2022.09.22 ~ 2023.04.20 | [헤드 퍼스트 디자인 패턴](https://product.kyobobook.co.kr/detail/S000001810483) | 에릭 프리먼 외 3인 | 한빛미디어 | [📝](./books/03-head-first-design-pattern/)     |
 | 2023.05.04 ~ 2023.06.29 |       [함께 자라기](https://product.kyobobook.co.kr/detail/S000001033071)       |       김창준       |  인사이트  | [📝](./books/04-growing-together)               |
 | 2023.07.13 ~ 2024.01.06 |  [머신러닝 시스템 설계](https://product.kyobobook.co.kr/detail/S000201212403)   |      칩 후옌       | 한빛미디어 | [📝](./books/05-machine-learning-system-design) |
-|      2024.01.06 ~       |      [육각형 개발자](https://product.kyobobook.co.kr/detail/S000203107475)      |       최범균       | 한빛미디어 | [📝](./books/06-hexagonal-developer)            |
+|      2024.01.06 ~       |      [육각형 개발자](https://product.kyobobook.co.kr/detail/S000203107475)                        |       최범균       | 한빛미디어 | [📝](./books/06-hexagonal-developer)            |
+|                         |      [타입으로 견고하게 다형성으로 유연하게](https://product.kyobobook.co.kr/detail/S000203107475)      |       홍재민       | 인사이트 |             |
