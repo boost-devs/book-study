@@ -6,7 +6,7 @@
   <div>
     <img src="https://img.shields.io/badge/%EC%A0%80%EC%9E%90-%EC%B5%9C%EB%B2%94%EA%B7%A0-e76f51?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/%EC%B6%9C%ED%8C%90%EC%82%AC-%ED%95%9C%EB%B9%9B%EB%AF%B8%EB%94%94%EC%96%B4-faa307?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/%EA%B8%B0%EA%B0%84-2024.01.11%20~%20-52b788?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/%EA%B8%B0%EA%B0%84-2024.01.11%20~%202024.05.23-52b788?style=for-the-badge"/>
   </div>
 </div>
 
