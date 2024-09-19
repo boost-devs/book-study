@@ -152,8 +152,8 @@
 
 - `튜브`, `샐리`, `펭귄`: 관련된 내용을 간단히 정리해보자면,
   - 전제: Student가 Person의 서브타입이다.
-    a. `Student -> Boolean`인 경우: `Student`만 인자로 가능 👉 부모
-    b. `Person -> Boolean`인 경우: `Student`, `Person` 모두 인자로 가능 👉 자식
+    1. `Student -> Boolean`인 경우: `Student`만 인자로 가능 👉 부모
+    2. `Person -> Boolean`인 경우: `Student`, `Person` 모두 인자로 가능 👉 자식
   - 결론: b.는 a.의 서브타입이다. 👉 서브타입 관계가 역전됨
 
 <sup><a href="#-목차">⬆️ 위로 이동</a></sup>
