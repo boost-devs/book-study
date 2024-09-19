@@ -67,52 +67,43 @@
 > <strong><i>p84. 구조에 의한 서브타입을 사용하는 경우, 타입 검사기는 클래스 사이의 상호 관계 대신 클래스의 구조, 즉 각 클래스에 어떤 필드와 메서드가 있는지 고려한다. 클래스 A가 클래스 B에 정의된 필드와 메서드를 모두 정의한다면 A는 B의 서브타입이다.</i></strong> 🐧
 
 - `펭귄`: 이름에 의한 서브타입과 구조에 의한 서브타입 각각에 대한 예시입니다. ~~(파이썬이 주언어라 파이썬으로 씁니다. 절대 돌아가지 않아요…)~~
+  ```python
+  #  Person과 Student는 HasEmail의 서브타입
+  # 이름에 의한 서브타입
+  class HasEmail:
+    email: str
 
-```python
-#  Person과 Student는 HasEmail의 서브타입
+  class Person(HasEmail):
+    name: str
+    age: int
 
-# 이름에 의한 서브타입
-class HasEmail:
-	email: str
+  class Student(HasEmail):
+    name: str
+    grade: int
 
+  # 구조에 의한 서브타입
+  class HasEmail:
+    email: str
 
-class Person(HasEmail):
-	name: str
-	age: int
+  class Person:
+    name: str
+    age: int
+    email: str
 
-
-class Student(HasEmail):
-	name: str
-	grade: int
-
-
-# 구조에 의한 서브타입
-class HasEmail:
-	email: str
-
-
-class Person:
-	name: str
-	age: int
-	email: str
-
-
-class Student(Email):
-	name: str
-	grade: int
-	email: str
-```
-
+  class Student(Email):
+    name: str
+    grade: int
+    email: str
+  ```
 - `튜브`: TypeScript에서 사용하는 구조에 의한 서브타입 예시
+  ```typescript
+  interface ExampleProps {
+    id: string;
+    other: number;
+  }
 
-```typescript
-interface ExampleProps {
-  id: string;
-  other: number;
-}
-
-const component = ({ id: String }: ExampleProps) => {};
-```
+  const component = ({ id: String }: ExampleProps) => {};
+  ```
 
 > <strong><i>p88. 다른 코드는 하나도 건드리지 않고 매개변수 타입표시를 { String email; }로 고치기만 해서 모든 문제를 해결한 것이다.</strong></i> 🍋
 
@@ -144,28 +135,26 @@ const component = ({ id: String }: ExampleProps) => {};
 > <strong><i>p123. 위치에 민감한 타입 검사가 잘 작동하도록 프로그램의 구조를 단순하게 만들어야 한다는 것이다.</strong></i> 🍋🐧
 
 - `펭귄`: 1장에서 타입 검사기가 통과할 수 있도록 코드를 수정하면서 한다는 말이 기억났다.
-- `튜브`:
-
-```typescript
-(a: int | str) => a + 1 : int
-```
+- `튜브`: ~~무언가를 설명하려 했는데...~~
+  ```typescript
+  (a: int | str) => a + 1 : int
+  ```
 
 > <strong><i>p129. 이면서 타입은 다중 상속이 있을 때 유용하다. 다중 상속은 한 클래스가 여러 클래스를 직접 상속하는 것을 말한다.</strong></i> 🌵🍋
 
-- `튜브`:
-
-```
-type A = {a, b, c}, type B = {b, c, d}, type C = A & B -> {b, c}
-type A = {a, b}, type B = A & {c} -> {a, b, c}, type C = A & {d} -> {a,b,d}
-```
+- `튜브`: ~~무언가를 설명하려 했는데...~~
+  ```
+  type A = {a, b, c}, type B = {b, c, d}, type C = A & B -> {b, c}
+  type A = {a, b}, type B = A & {c} -> {a, b, c}, type C = A & {d} -> {a,b,d}
+  ```
 
 > <strong><i>p140. 결과 타입의 서브 타입 관계가 유지된다는 사실은 나름 직관적인 것에 비해, 매개변수 타입의 서브타입 관계가 뒤집힌다는 사실은 처음 봤을 때 다소 이상하게 들릴 수 있다.</i></strong> 🐧🍋
 
 - `튜브`, `샐리`, `펭귄`: 관련된 내용을 간단히 정리해보자면,
   - 전제: Student가 Person의 서브타입이다.
-    1. `Student -> Boolean`인 경우: `Student`만 인자로 가능 👉 부모
-    2. `Person -> Boolean`인 경우: `Student`, `Person` 모두 인자로 가능 👉 자식
-  - 결론: 2.는 1.의 서브타입이다. 👉 서브타입 관계가 역전됨
+    a. `Student -> Boolean`인 경우: `Student`만 인자로 가능 👉 부모
+    b. `Person -> Boolean`인 경우: `Student`, `Person` 모두 인자로 가능 👉 자식
+  - 결론: b.는 a.의 서브타입이다. 👉 서브타입 관계가 역전됨
 
 <sup><a href="#-목차">⬆️ 위로 이동</a></sup>
 
