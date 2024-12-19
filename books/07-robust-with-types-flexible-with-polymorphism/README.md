@@ -6,7 +6,7 @@
   <div>
     <img src="https://img.shields.io/badge/%EC%A0%80%EC%9E%90-홍재민-e76f51?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/%EC%B6%9C%ED%8C%90%EC%82%AC-인사이트-faa307?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/%EA%B8%B0%EA%B0%84-2024.06.10%20~%20-52b788?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/%EA%B8%B0%EA%B0%84-2024.06.10%20~%202024.12.12-52b788?style=for-the-badge"/>
   </div>
 </div>
 
@@ -59,6 +59,8 @@
 - `튜브`: 앞으로 잘 알아보자!
 
 <sup><a href="#-목차">⬆️ 위로 이동</a></sup>
+
+---
 
 ## 2장. 서브 타입에 의한 다형성
 
@@ -161,6 +163,8 @@
 
 <sup><a href="#-목차">⬆️ 위로 이동</a></sup>
 
+---
+
 ## 3장. 매개변수에 의한 다형성
 
 > <strong><i>p157. 이렇게 choose처럼 한 개 이상의 타입 매개변수를 가지는 함수를 제네릭 함수(generic function)라고 부른다.</strong></i> 🐧
@@ -205,6 +209,8 @@
 > <strong><i>p212. 반면 무엇인가 타입의 역할은 정반대다. 오히려 타입 검사를 통과할 수 있는 프로그램이 타입 검사를 통과하지 못하도록 방해한다. 이는 보통 필요 없는 능력이다. 하지만 어떤 경우에는 이 능력이 중요하다. 예에서 본 것처럼 라이브러리를 만드는 상황이 여기에 속한다.</i></strong> 🐧🍋
 
 <sup><a href="#-목차">⬆️ 위로 이동</a></sup>
+
+---
 
 ## 4장. 두 다형성의 만남
 
@@ -253,6 +259,8 @@
   ```
 
 <sup><a href="#-목차">⬆️ 위로 이동</a></sup>
+
+---
 
 ## 5장. 오버로딩에 의한 다형성
 
