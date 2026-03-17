@@ -57,10 +57,9 @@
 
 ## 📌 진행 방식
 
-- 스터디는 **격주로 목요일 오후 9시**에 진행한다.
+- 스터디는 **격주로 화요일 오후 10시**에 진행한다.
 - 한 번에 한 책으로만 진행하고 책을 다 읽으면 다음 책을 정한다.
   - 스터디 슬로건인 <i>"가늘고 길게 가자"</i>처럼 부담이 가지 않을 정도의 양을 매주 정한다.
-  - 책 분야는 웹, 인공지능, 데이터, 네트워크, 컴퓨터공학 등 다양한 분야를 선택할 수 있다.
 - 스터디 전까지 스터디 로그에 다음과 같은 부분을 작성해야 한다.
   - 문장 한 줄이 중요한 책인 경우
     - 인상 깊었던 부분을 인용구로 작성하고 자신 지정 이모지로 표시한다.
@@ -88,4 +87,4 @@
 | 2024.01.06 ~ 2024.05.23 |             [육각형 개발자](https://product.kyobobook.co.kr/detail/S000203107475)             |             최범균              | 한빛미디어 | [📝](./books/06-hexagonal-developer)                          |
 | 2024.06.10 ~ 2024.12.12 | [타입으로 견고하게 다형성으로 유연하게](https://product.kyobobook.co.kr/detail/S000210397750) |             홍재민              |  인사이트  | [📝](./books/07-robust-with-types-flexible-with-polymorphism) |
 | 2025.01.06 ~ 2025.07.01 |     [소프트웨어 엔지니어 가이드북](https://product.kyobobook.co.kr/detail/S000214576874)      |         게르겔리 오로스         | 한빛미디어 | [📝](./books/08-the-software-engineer-guidebook)              |
-|       2025.08.05        |           [대체 뭐가 문제야?](https://product.kyobobook.co.kr/detail/S000001032954)           | 제럴드 M. 와인버그, 도널드 고즈 |  인사이트  | [📝](./books/09-are-your-lights-on)                           |
+| 2025.08.05 ~ 2026.03.17 |           [대체 뭐가 문제야?](https://product.kyobobook.co.kr/detail/S000001032954)           | 제럴드 M. 와인버그, 도널드 고즈 |  인사이트  | [📝](./books/09-are-your-lights-on)                           |
