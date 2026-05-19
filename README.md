@@ -88,3 +88,4 @@
 | 2024.06.10 ~ 2024.12.12 | [타입으로 견고하게 다형성으로 유연하게](https://product.kyobobook.co.kr/detail/S000210397750) |             홍재민              |  인사이트  | [📝](./books/07-robust-with-types-flexible-with-polymorphism) |
 | 2025.01.06 ~ 2025.07.01 |     [소프트웨어 엔지니어 가이드북](https://product.kyobobook.co.kr/detail/S000214576874)      |         게르겔리 오로스         | 한빛미디어 | [📝](./books/08-the-software-engineer-guidebook)              |
 | 2025.08.05 ~ 2026.03.17 |           [대체 뭐가 문제야?](https://product.kyobobook.co.kr/detail/S000001032954)           | 제럴드 M. 와인버그, 도널드 고즈 |  인사이트  | [📝](./books/09-are-your-lights-on)                           |
+|      2026.04.17 ~       |            [테니스 이너게임](https://product.kyobobook.co.kr/detail/S000061898264)            |          티머시 갤웨이          |   소우주   | [📝](./books/10-the-inner-game-of-tennis)                     |
