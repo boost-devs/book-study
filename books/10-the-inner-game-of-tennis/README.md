@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://product.kyobobook.co.kr/detail/S000061898264">
-      <img src="./img/thumbnail.png" alt="Logo" width="200" style="border: 1px solid #666666">
+      <img src="./img/thumbnail.png" alt="Logo" width="200" style="border: 1px solid #666666" />
   </a>
   <h1>테니스 이너게임</h1>
   <div>
