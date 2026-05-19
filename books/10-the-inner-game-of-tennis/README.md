@@ -1,8 +1,8 @@
 <div align="center">
   <a href="https://product.kyobobook.co.kr/detail/S000061898264">
-      <img src="./img/thumbnail.png" alt="Logo" width="200">
+      <img src="./img/thumbnail.png" alt="Logo" width="200" style="border: 1px solid #666666">
   </a>
-  <h1>테니스 이너게임/h1>
+  <h1>테니스 이너게임</h1>
   <div>
     <img src="https://img.shields.io/badge/%EC%A0%80%EC%9E%90-티머시%20M.%20갤웨이-e76f51?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/%EC%B6%9C%ED%8C%90%EC%82%AC-소우주-faa307?style=for-the-badge"/>
