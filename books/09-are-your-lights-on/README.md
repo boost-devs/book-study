@@ -6,7 +6,7 @@
   <div>
     <img src="https://img.shields.io/badge/%EC%A0%80%EC%9E%90-제럴드%20M.%20와인버그-e76f51?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/%EC%B6%9C%ED%8C%90%EC%82%AC-인사이트-faa307?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/%EA%B8%B0%EA%B0%84-2025.08.05%20~%20-52b788?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/%EA%B8%B0%EA%B0%84-2025.08.05%20~%2026.03.17-52b788?style=for-the-badge"/>
   </div>
 </div>
 
